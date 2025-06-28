@@ -54,7 +54,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjhanwar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjhanwar&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjhanwar&layout=compact&theme=tokyonight&v=1
+" alt="Top Languages" />
 </p>
 
 <p align="center">
