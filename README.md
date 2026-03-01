@@ -12,11 +12,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanjhanwar&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/aryanjhanwar?style=for-the-badge&color=6AD3F7&labelColor=0D1117&logo=github&label=FOLLOWERS" />
-</div>
 
 <br/>
 
