@@ -1,116 +1,74 @@
-<h1 align="center">Aryan Jhanwar</h1>
-<h3 align="center">Engineering Strong Foundations in Full-Stack Development</h3>
+<h1 align="center">Hey There! I'm Aryan Jhanwar 🚀</h1>
 
 <p align="center">
-  <em>CSE Student • JavaScript-Focused • Backend Curious • Systems Thinker in Progress</em>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer gif" width="400" />
+</p>
+
+<p align="center">
+  <em>Second-Year CSE Student | Future Full Stack Developer | Currently Brewing MERN Stack Skills ☕</em>
 </p>
 
 ---
 
-## 🧠 Engineering Philosophy
-
-I approach software development as a discipline — not a trend.
-
-My focus is on:
-- Mastering fundamentals before frameworks  
-- Understanding *why* systems work, not just how to use them  
-- Writing clean, readable, and maintainable code  
-- Building real projects to internalize concepts  
-
-I am currently developing strong problem-solving skills while transitioning into full-stack development through the MERN ecosystem.
+### 👨‍💻 About Me:
+- 🎓 B.Tech CSE @ Arya College of Engineering (RTU), Jaipur
+- 🧠 Logical thinker and tech enthusiast with a deep curiosity
+- 🌱 Currently learning:
+  - **C Programming**
+  - **HTML, CSS, JavaScript**
+  - Exploring the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🎯 Goal: Become a solid full-stack developer with strong fundamentals
 
 ---
 
-## 🛠 Technical Stack
+## 🎯 Focused Learning & Development
 
-### 💻 Core Programming
-- C (logic building & memory understanding)
-- JavaScript (core concepts, execution model, DOM)
+### 🧪 Learning & Leveling Up
+- 🚀 JavaScript (core fundamentals & browser-based DOM projects)
+- ⚛️ React.js for frontend interactivity
+- 🧩 Node.js + Express for backend basics
+- 📦 MongoDB for data handling
 
-### 🌐 Frontend Development
-- HTML5 (semantic structure)
-- CSS3 (layout, responsiveness, flexbox)
-- JavaScript (DOM manipulation, event-driven behavior)
-
-### 🧩 Backend (Actively Learning)
-- Node.js (runtime & architecture fundamentals)
-- Express.js (REST API basics)
-- MongoDB (document-based data modeling)
+### 🔥 Current Focus
+- 🌐 Real-world frontend + backend practice
+- 🛠 Building personal projects
+- 📚 Strengthening programming fundamentals
 
 ---
 
-## 📌 Current Engineering Focus
+### 🧰 Tech Stack — So Far
 
-- Deep dive into JavaScript execution context & async behavior  
-- Building DOM-based projects without frameworks  
-- Designing small REST APIs with proper routing structure  
-- Strengthening data structures & problem solving in C  
-- Understanding how frontend and backend communicate (HTTP lifecycle)
-
----
-
-## 🚀 Selected Projects
-
-*(This section will evolve as I build more real-world systems.)*
-
-### 📝 Task Manager (Vanilla JS)
-- LocalStorage-based state management
-- Dynamic DOM rendering
-- Event delegation pattern
-
-### 🔐 Express Authentication Prototype
-- RESTful routes
-- Middleware-based request handling
-- Basic session logic understanding
-
-### 📊 Mini Data Structure Implementations (C)
-- Stack & Queue
-- Linked List basics
-- Memory allocation experiments
-
-> I aim to progressively move from small utilities to complete, production-style full-stack applications.
-
----
-
-## 📈 Growth Roadmap
-
-- Build 3 production-style MERN applications  
-- Learn authentication & authorization deeply  
-- Understand backend architecture patterns  
-- Explore system design fundamentals  
-- Transition into Python for problem-solving and data applications  
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanjhanwar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjhanwar&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## 🎯 Long-Term Vision
-
-To become a developer who:
-- Thinks in systems
-- Designs scalable backends
-- Writes code that ages well
-- Builds meaningful software that solves real problems
-
----
-
-## 📫 Connect
-
-- Email: aryan2006jhanwar@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/aryanjhanwar  
-
----
+### 📊 GitHub Stats
 
 <p align="center">
-  <em>Building patiently. Improving daily. Thinking deeply.</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanjhanwar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjhanwar&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aryanjhanwar&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Reach Me At:
+- 📧 Email: *[aryan2006jhanwar@gmail.com]*
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aryanjhanwar)
+
+---
+
+### ⚡ Fun Fact:
+> I enjoy thinking deeply and solving tricky problems — even if it keeps me up late at night 😄
