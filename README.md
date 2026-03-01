@@ -14,7 +14,7 @@
 - 🎓 B.Tech CSE @ Arya College of Engineering (RTU), Jaipur
 - 🧠 Logical thinker and tech enthusiast with a deep curiosity
 - 🌱 Currently learning:
-  - **C Programming**
+  - **C , C++ Programming**
   - **HTML, CSS, JavaScript**
   - Exploring the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🎯 Goal: Become a solid full-stack developer with strong fundamentals
@@ -50,16 +50,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanjhanwar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanjhanwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjhanwar&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjhanwar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanjhanwar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aryanjhanwar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
